@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQVABUAAAAAAAD/DwAAAAAAAAAAAP8i8gAAAAAAAAAA8CJS9f8AAAAAAAAALyIiVUT/AAAAAAAA8P8i8k9EDwAAAAAAAAD/D/BE9AAAAAAAAAAAAAD//w8AAAAAAAAAAPBPRP//AAAAAAAAAE9ERPTxAAAAAAAA/0RERET0AAAAAAD/RERET/TxAAAAAP9ERERPX/UPAAAA8ERERET0VfUAAAAAT0RERERUVQ8AAAAAT0T0/0Rf9Q8AAAAAT0QU/0T/Hw8AAAAAT0REREQP8AAAAAAA8ERERPQAAAAAAAAAAP9ERPQAAAAAAAAAAABPRA8AAAAAAAAAAADw/wAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Charmander"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP//AAAAAADwL/IPAAAAAC8yI/8AAADwIiIz4g8AAPAy8i/i/wAALyPy/yL+DwAvIh/xL+4PAC8iHxEv7g8ALyMfES/uDwAvM/IRL/4PAPAy8vHi/wAA8CIjL+IPAAAALyIi/wAAAADwL/IPAAAAAADwDwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Donuts"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
