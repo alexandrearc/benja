@@ -11,7 +11,9 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.donuts, function (sprite, otherS
     otherSprite.destroy()
 })
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile2`, function (sprite, location) {
-    game.over(true)
+    if (info.score() >= 5) {
+        game.over(true)
+    }
 })
 let Donuts: Sprite = null
 let charmander: Sprite = null
